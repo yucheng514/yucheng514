@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+while true { 
+
+    eat 🍴 ;
+  
+    sleep 😴 ;
+  
+    code 💻 ;
+  
+} 
+
+
 <!--
 **daluozha/daluozha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
