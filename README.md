@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-while true { 
+while (true) { 
 
     eat 🍴 ;
   
