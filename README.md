@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-while (true) { 
-
-    eat 🍴 ;
-  
-    sleep 😴 ;
-  
-    code 💻 ;
-  
-} 
 
 
 <!--
