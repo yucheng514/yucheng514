@@ -2,9 +2,10 @@
 
 name: generate snake
 on: 
-  # run automatically every 6 hours
+  # run automatically every morning
   schedule:
-    - cron: "0 */8 * * *" 
+    # - cron: "0 */8 * * *"
+    - cron: '0 23 * * *' 
   
   # allows to manually run the job at any time
   workflow_dispatch:
