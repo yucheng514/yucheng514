@@ -1,5 +1,19 @@
+# https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml
+
 name: generate snake
-on: push
+on: 
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */8 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - main
+
 jobs: 
   generate:
     runs-on: ubuntu-latest

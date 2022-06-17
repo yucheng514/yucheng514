@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋👋
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/daluozha/daluozha/output/github-snake.svg#gh-dark-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/daluozha/daluozha/output/github-snake-dark.svg#gh-light-mode-only)
