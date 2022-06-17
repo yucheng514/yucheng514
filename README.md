@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/daluozha/daluozha/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/daluozha/daluozha/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 <!--
 **daluozha/daluozha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
